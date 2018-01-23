@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<GameConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Levels>
+    <Level EnemySpawnTime="0.5" ID="1" Score="0">
+      <Enemies>
+        <Enemy Index="0" MaxSpeed="1.1" MinSpeed="1.1" Weight="100" />
+        <Enemy Index="1" MaxSpeed="1.1" MinSpeed="1.1" Weight="5" />
+        <Enemy Index="2" MaxSpeed="0.8" MinSpeed="0.8" Weight="0" />
+        <Enemy Index="0" MaxSpeed="1.4" MinSpeed="1.4" Weight="70" />
+        <Enemy Index="1" MaxSpeed="1.6" MinSpeed="1.6" Weight="5" />
+        <Enemy Index="2" MaxSpeed="0.9" MinSpeed="0.9" Weight="0" />
+      </Enemies>
+    </Level>
+    <Level EnemySpawnTime="0.5" ID="2" Score="50000">
+      <Enemies>
+        <Enemy Index="0" MaxSpeed="1.1" MinSpeed="1.1" Weight="90" />
+        <Enemy Index="1" MaxSpeed="1.1" MinSpeed="1.1" Weight="5" />
+        <Enemy Index="2" MaxSpeed="0.8" MinSpeed="0.8" Weight="0" />
+        <Enemy Index="0" MaxSpeed="1.45" MinSpeed="1.45" Weight="80" />
+        <Enemy Index="1" MaxSpeed="1.65" MinSpeed="1.65" Weight="5" />
+        <Enemy Index="2" MaxSpeed="0.9" MinSpeed="0.9" Weight="0" />
+      </Enemies>
+    </Level>
+    <Level EnemySpawnTime="0.45" ID="3" Score="100000">
+      <Enemies>
+        <Enemy Index="0" MaxSpeed="1.15" MinSpeed="1.15" Weight="80" />
+        <Enemy Index="1" MaxSpeed="1.2" MinSpeed="1.2" Weight="10" />
+        <Enemy Index="2" MaxSpeed="0.9" MinSpeed="0.9" Weight="5" />
+        <Enemy Index="0" MaxSpeed="1.45" MinSpeed="1.45" Weight="80" />
+        <Enemy Index="1" MaxSpeed="1.7" MinSpeed="1.7" Weight="10" />
+        <Enemy Index="2" MaxSpeed="1" MinSpeed="1" Weight="5" />
+      </Enemies>
+    </Level>
+    <Level EnemySpawnTime="0.45" ID="4" Score="150000">
+      <Enemies>
+        <Enemy Index="0" MaxSpeed="1.2" MinSpeed="1.2" Weight="80" />
+        <Enemy Index="1" MaxSpeed="1.25" MinSpeed="1.25" Weight="60" />
+        <Enemy Index="2" MaxSpeed="0.95" MinSpeed="0.95" Weight="30" />
+        <Enemy Index="0" MaxSpeed="1.5" MinSpeed="1.5" Weight="80" />
+        <Enemy Index="1" MaxSpeed="1.8" MinSpeed="1.8" Weight="60" />
+        <Enemy Index="2" MaxSpeed="1.05" MinSpeed="1.05" Weight="20" />
+      </Enemies>
+    </Level>
+    <Level EnemySpawnTime="0.4" ID="5" Score="400000">
+      <Enemies>
+        <Enemy Index="0" MaxSpeed="1.25" MinSpeed="1.25" Weight="80" />
+        <Enemy Index="1" MaxSpeed="1.3" MinSpeed="1.3" Weight="70" />
+        <Enemy Index="2" MaxSpeed="1" MinSpeed="1" Weight="35" />
+        <Enemy Index="0" MaxSpeed="1.55" MinSpeed="1.55" Weight="80" />
+        <Enemy Index="1" MaxSpeed="1.9" MinSpeed="1.9" Weight="70" />
+        <Enemy Index="2" MaxSpeed="1.1" MinSpeed="1.1" Weight="25" />
+      </Enemies>
+    </Level>
+    <Level EnemySpawnTime="0.35" ID="6" Score="700000">
+      <Enemies>
+        <Enemy Index="0" MaxSpeed="1.3" MinSpeed="1.3" Weight="70" />
+        <Enemy Index="1" MaxSpeed="1.35" MinSpeed="1.35" Weight="70" />
+        <Enemy Index="2" MaxSpeed="1.05" MinSpeed="1.05" Weight="35" />
+        <Enemy Index="0" MaxSpeed="1.6" MinSpeed="1.6" Weight="70" />
+        <Enemy Index="1" MaxSpeed="2" MinSpeed="2" Weight="80" />
+        <Enemy Index="2" MaxSpeed="1.15" MinSpeed="1.15" Weight="25" />
+      </Enemies>
+    </Level>
+    <Level EnemySpawnTime="0.3" ID="7" Score="1250000">
+      <Enemies>
+        <Enemy Index="0" MaxSpeed="1.35" MinSpeed="1.35" Weight="70" />
+        <Enemy Index="1" MaxSpeed="1.4" MinSpeed="1.4" Weight="80" />
+        <Enemy Index="2" MaxSpeed="1.1" MinSpeed="1.1" Weight="35" />
+        <Enemy Index="0" MaxSpeed="1.65" MinSpeed="1.65" Weight="70" />
+        <Enemy Index="1" MaxSpeed="2.1" MinSpeed="2.1" Weight="80" />
+        <Enemy Index="2" MaxSpeed="1.2" MinSpeed="1.2" Weight="30" />
+      </Enemies>
+    </Level>
+    <Level EnemySpawnTime="0.25" ID="8" Score="2000000">
+      <Enemies>
+        <Enemy Index="0" MaxSpeed="1.4" MinSpeed="1.4" Weight="70" />
+        <Enemy Index="1" MaxSpeed="1.45" MinSpeed="1.45" Weight="90" />
+        <Enemy Index="2" MaxSpeed="1.15" MinSpeed="1.15" Weight="40" />
+        <Enemy Index="0" MaxSpeed="1.7" MinSpeed="1.7" Weight="70" />
+        <Enemy Index="1" MaxSpeed="2.2" MinSpeed="2.2" Weight="90" />
+        <Enemy Index="2" MaxSpeed="1.25" MinSpeed="1.25" Weight="35" />
+      </Enemies>
+    </Level>
+    <Level EnemySpawnTime="0.2" ID="9" Score="4000000">
+      <Enemies>
+        <Enemy Index="0" MaxSpeed="1.45" MinSpeed="1.45" Weight="70" />
+        <Enemy Index="1" MaxSpeed="1.5" MinSpeed="1.5" Weight="90" />
+        <Enemy Index="2" MaxSpeed="1.2" MinSpeed="1.2" Weight="40" />
+        <Enemy Index="0" MaxSpeed="1.75" MinSpeed="1.75" Weight="70" />
+        <Enemy Index="1" MaxSpeed="2.3" MinSpeed="2.3" Weight="100" />
+        <Enemy Index="2" MaxSpeed="1.3" MinSpeed="1.3" Weight="35" />
+      </Enemies>
+    </Level>
+    <Level EnemySpawnTime="0.15" ID="10" Score="8000000">
+      <Enemies>
+        <Enemy Index="0" MaxSpeed="1.5" MinSpeed="1.5" Weight="60" />
+        <Enemy Index="1" MaxSpeed="1.55" MinSpeed="1.55" Weight="70" />
+        <Enemy Index="2" MaxSpeed="1.25" MinSpeed="1.25" Weight="45" />
+        <Enemy Index="0" MaxSpeed="1.8" MinSpeed="1.8" Weight="70" />
+        <Enemy Index="1" MaxSpeed="2.4" MinSpeed="2.4" Weight="80" />
+        <Enemy Index="2" MaxSpeed="1.35" MinSpeed="1.35" Weight="40" />
+      </Enemies>
+    </Level>
+  </Levels>
+</GameConfig>

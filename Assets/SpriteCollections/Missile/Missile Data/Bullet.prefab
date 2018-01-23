@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: Bullet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d546f34a90531a14eaba82a43b05b86b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 3
+  materialIdsValid: 1
+  needMaterialInstance: 0
+  spriteDefinitions:
+  - name: missile_2
+    boundsData:
+    - {x: .015625, y: -.015625, z: 0}
+    - {x: .28125, y: .65625, z: 0}
+    untrimmedBoundsData:
+    - {x: .015625, y: -.015625, z: 0}
+    - {x: .28125, y: .65625, z: 0}
+    texelSize: {x: .03125, y: .03125}
+    positions:
+    - {x: -.125, y: -.34375, z: 0}
+    - {x: .15625, y: -.34375, z: 0}
+    - {x: -.125, y: .3125, z: 0}
+    - {x: .15625, y: .3125, z: 0}
+    normals: []
+    tangents: []
+    uvs:
+    - {x: .0625312477, y: .0625312477}
+    - {x: .343718737, y: .0625312477}
+    - {x: .0625312477, y: .718718767}
+    - {x: .343718737, y: .718718767}
+    indices: 000000000300000001000000020000000300000000000000
+    material: {fileID: 2100000, guid: 6578166c63844b4419f1a2c66285b267, type: 2}
+    materialId: 0
+    sourceTextureGUID: a729e7bcaff30aa4cb1e32d9ed1aaafb
+    extractRegion: 0
+    regionX: 0
+    regionY: 0
+    regionW: 0
+    regionH: 0
+    flipped: 0
+    complexGeometry: 0
+    colliderType: 2
+    colliderVertices:
+    - {x: .015625, y: -.015625, z: 0}
+    - {x: .140625, y: .328125, z: .100000001}
+    colliderIndicesFwd: 
+    colliderIndicesBack: 
+    colliderConvex: 0
+    colliderSmoothSphereCollisions: 0
+  - name: missile_1
+    boundsData:
+    - {x: .015625, y: -.015625, z: 0}
+    - {x: .28125, y: .65625, z: 0}
+    untrimmedBoundsData:
+    - {x: .015625, y: -.015625, z: 0}
+    - {x: .28125, y: .65625, z: 0}
+    texelSize: {x: .03125, y: .03125}
+    positions:
+    - {x: -.125, y: -.34375, z: 0}
+    - {x: .15625, y: -.34375, z: 0}
+    - {x: -.125, y: .3125, z: 0}
+    - {x: .15625, y: .3125, z: 0}
+    normals: []
+    tangents: []
+    uvs:
+    - {x: .468781263, y: .0625312477}
+    - {x: .749968767, y: .0625312477}
+    - {x: .468781263, y: .718718767}
+    - {x: .749968767, y: .718718767}
+    indices: 000000000300000001000000020000000300000000000000
+    material: {fileID: 2100000, guid: 6578166c63844b4419f1a2c66285b267, type: 2}
+    materialId: 0
+    sourceTextureGUID: 307605e603e07bf4698a640cc9e66318
+    extractRegion: 0
+    regionX: 0
+    regionY: 0
+    regionW: 0
+    regionH: 0
+    flipped: 0
+    complexGeometry: 0
+    colliderType: 2
+    colliderVertices:
+    - {x: .015625, y: -.015625, z: 0}
+    - {x: .140625, y: .328125, z: .100000001}
+    colliderIndicesFwd: 
+    colliderIndicesBack: 
+    colliderConvex: 0
+    colliderSmoothSphereCollisions: 0
+  premultipliedAlpha: 0
+  material: {fileID: 0}
+  materials:
+  - {fileID: 2100000, guid: 6578166c63844b4419f1a2c66285b267, type: 2}
+  textures:
+  - {fileID: 2800000, guid: 507bfcda5bf26934a8518b9583ee5363, type: 3}
+  allowMultipleAtlases: 0
+  spriteCollectionGUID: b6f0d5563e0852944aedc6e9e4fedba1
+  spriteCollectionName: Missile
+  assetName: 
+  loadable: 0
+  invOrthoSize: .100000001
+  halfTargetHeight: 320
+  buildKey: 358806022
+  dataGuid: 079e8f14b86562243bb823ed4c58f1f0
+  managedSpriteCollection: 0
+  hasPlatformData: 0
+  spriteCollectionPlatforms: []
+  spriteCollectionPlatformGUIDs: []
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1
