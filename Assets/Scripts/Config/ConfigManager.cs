@@ -57,6 +57,7 @@
                 Debug.LogWarning("gameconfig not exist.");
                 return;
             }
+			// TextAsset 如果是二进制数据，就是asset.bytes
             GameConfig = XmlConvert.DeserializeObject<GameConfig>(asset.text);
         }
 

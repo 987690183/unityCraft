@@ -1,0 +1,17 @@
+/Users/huanglin/tutorial/unityCraft/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/huanglin/tutorial/unityCraft/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/huanglin/tutorial/unityCraft/obj/Debug/Assembly-CSharp.dll
+/Users/huanglin/tutorial/unityCraft/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/huanglin/tutorial/unityCraft/Temp/bin/Debug/UnityEngine.dll
+/Users/huanglin/tutorial/unityCraft/Temp/bin/Debug/UnityEditor.dll
+/Users/huanglin/tutorial/unityCraft/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/huanglin/tutorial/unityCraft/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/huanglin/tutorial/unityCraft/Temp/bin/Debug/Mono.Cecil.dll
+/Users/huanglin/tutorial/unityCraft/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/huanglin/tutorial/unityCraft/Temp/bin/Debug/Unity.DataContract.dll
+/Users/huanglin/tutorial/unityCraft/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/huanglin/tutorial/unityCraft/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/huanglin/tutorial/unityCraft/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/huanglin/tutorial/unityCraft/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/huanglin/tutorial/unityCraft/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/huanglin/tutorial/unityCraft/Temp/bin/Debug/Mono.Cecil.Mdb.dll
